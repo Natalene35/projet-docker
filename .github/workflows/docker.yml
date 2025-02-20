@@ -27,5 +27,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: votre-utilisateur/projet-docker:latest
+          tags: Natalene35/projet-docker:latest
 
